@@ -157,7 +157,7 @@ print("✅ Fine-tuned model saved to:", save_path)
 
 from pyngrok import ngrok, conf
 
-conf.get_default().auth_token = "  "
+conf.get_default().auth_token = "your authtoken  "
 -----------------------------------------------------------------------
 from flask import Flask, request, jsonify
 from flask_cors import CORS
