@@ -170,7 +170,7 @@ Whisper uses automatic language detection by default. For low-resource languages
 B.Tech in Artificial Intelligence & Data Science
 Jyothi Engineering College, Thrissur | APJ KTU
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/krishnendu-u-n-b68361298)
 [![GitHub](https://img.shields.io/badge/GitHub-Kriz--827-black?logo=github)](https://github.com/Kriz-827)
 [![Email](https://img.shields.io/badge/Email-un.krishna.827%40gmail.com-red?logo=gmail)](mailto:un.krishna.827@gmail.com)
 
