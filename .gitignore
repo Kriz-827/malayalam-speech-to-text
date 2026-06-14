@@ -1,0 +1,36 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment files
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Trained models
+finetuned_model_small/
+
+# Large ML files
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.h5
